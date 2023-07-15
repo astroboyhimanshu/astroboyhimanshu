@@ -1,14 +1,14 @@
 ### Hi there 👋 I am Himanshu
 
-I am Passionate about Building High-Quality Software & Web Applications that Solve Real-World Problems
+✨I am Passionate about Building High-Quality Software & Web Applications that Solve Real-World Problems
 
 🔭 I’m currently looking for SDE-1 roles. 
 
 👨‍💻I am fluent in C++ and Python, with a strong grip on HTML, CSS, and JavaScript for building robust and user-friendly applications.
 
-Additionally, I have hands-on experience with modern web frameworks like Node.js and Express.js, enabling me to create scalable and efficient web applications. I am proficient in working with databases such as MongoDB and MySQL, effectively designing and managing data-driven applications.
+💻Additionally, I have hands-on experience with modern web frameworks like Node.js and Express.js, enabling me to create scalable and efficient web applications. I am proficient in working with databases such as MongoDB and MySQL, effectively designing and managing data-driven applications.
 
-Furthermore, I have a basic understanding of cloud computing platforms like AWS, allowing me to deploy and maintain applications in a cloud environment. I am also a good communicator with strong public speaking skills.
+🔥Furthermore, I have a basic understanding of cloud computing platforms like AWS, allowing me to deploy and maintain applications in a cloud environment. I am also a good communicator with strong public speaking skills.
 
 <!--
 **astroboyhimanshu/astroboyhimanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

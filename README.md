@@ -4,7 +4,7 @@
 
 🔭 I’m currently looking for SDE-1 roles. 
 
-👨‍💻I am fluent in C++ and Python, with a strong grip on HTML, CSS, and JavaScript for building robust and user-friendly applications.
+👨‍💻I am fluent in C++ with a strong grip on HTML, CSS, and JavaScript for building robust and user-friendly applications.
 
 💻Additionally, I have hands-on experience with modern web frameworks like Node.js and Express.js, enabling me to create scalable and efficient web applications. I am proficient in working with databases such as MongoDB and MySQL, effectively designing and managing data-driven applications.
 

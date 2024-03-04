@@ -1,14 +1,12 @@
 ### Hi there 👋 I am Himanshu
 
-✨I am Passionate about Building High-Quality Software & Web Applications that Solve Real-World Problems
+🌟 Passionate SDE-1 Intern | Specializing in React.js, Nest.js, MongoDB, AWS, and Git, complemented by Strong DSA Skills (C++ and Java) 🚀 🚀
 
-🔭 I’m currently looking for SDE-1 roles. 
+🔭 As a dedicated Software Development Engineer (SDE-1) intern (Full Stack), I'm committed to crafting secure and user-centric web applications. Proficient in a range of technologies including React.js, Nest.js,   MongoDB, AWS, and Git, I've cultivated my skills through hands-on experience and continuous learning. 
 
-👨‍💻I am fluent in C++ with a strong grip on HTML, CSS, and JavaScript for building robust and user-friendly applications.
+🌱 My solid foundation in Data Structures and Algorithms (DSA), demonstrated by solving over 800 problems on LeetCode, underscores my analytical prowess and problem-solving abilities.
 
-💻Additionally, I have hands-on experience with modern web frameworks like Node.js and Express.js, enabling me to create scalable and efficient web applications. I am proficient in working with databases such as MongoDB and MySQL, effectively designing and managing data-driven applications.
-
-🔥Furthermore, I have a Good understanding and hands on experience of cloud computing platforms like AWS, allowing me to deploy and maintain applications in a cloud environment. I am also a good communicator with strong public speaking skills.
+⚡ With a proven track record of delivering high-quality code enhancements and collaborating effectively within cross-functional teams, I am poised to drive innovation and success in any SDE-1 role. Let's connect and explore opportunities to create impactful solutions together.
 
 <!--
 **astroboyhimanshu/astroboyhimanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Himanshu
 
-🌟 Passionate SDE-1 Intern | Specializing in React.js, Nest.js, MongoDB, AWS, and Git, complemented by Strong DSA Skills (C++ and Java) 🚀 🚀
+🌟 Passionate Sodtware Development Engineer | Specializing in React.js, Nest.js, MongoDB, AWS, and Git, complemented by Strong DSA Skills (C++ and Java) 🚀 🚀
 
 🔭 As a dedicated Software Development Engineer (SDE-1) intern (Full Stack), I'm committed to crafting secure and user-centric web applications. Proficient in a range of technologies including React.js, Nest.js,   MongoDB, AWS, and Git, I've cultivated my skills through hands-on experience and continuous learning. 
 

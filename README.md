@@ -2,7 +2,7 @@
 
 🌟 Passionate Software Engineer | Specializing in React.js, Nest.js, MongoDB, AWS, and Git, complemented by Strong DSA Skills. 🚀 🚀
 
-🔭 As a dedicated Software Engineer (SWE-1), I'm committed to crafting secure and user-centric web applications. Proficient in a range of technologies including React.js, Nest.js,   MongoDB, AWS, and Git, I've cultivated my skills through hands-on experience and continuous learning. 
+🔭 As a dedicated Software Engineer (SWE-2), I'm committed to crafting secure and user-centric web applications. Proficient in a range of technologies including React.js, Nest.js,   MongoDB, AWS, and Git, I've cultivated my skills through hands-on experience and continuous learning. 
 
 🌱 My solid foundation in Data Structures and Algorithms (DSA), demonstrated by solving over 800 problems on LeetCode, underscores my analytical prowess and problem-solving abilities.
 
